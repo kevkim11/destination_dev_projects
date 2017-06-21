@@ -1,16 +1,10 @@
 # Two parts to merge sort
 # 1) Split the list into it's smallest elements. Split as in cut in half.
-# 2)
+# 2) Merge and sort the two sorted-arrays
 
 ar = [1, 5, 7, 10, 11, 15, 25, 40]
 ar2 = [2, 4, 5, 8, 20]
-
 ar10 = [10, 4, 6, 3, 11, 16, 19, 1, 100, 21, 49, 59, 21, 2, 1, 5, 3]
-# p ar[0..3]
-# p ar[3...]
-
-# a_ar = []
-# b_ar = []
 
 
 def merge(ar1, ar2)
@@ -37,15 +31,22 @@ end
 
 # p merge(ar, ar2)
 
-def split(arr)
+def merge_sort(arr)
+=begin
+Continuously splits the array recursively.
+When the recursion is finished, it'll return an array with one element and will start merging the
+two arrays.
+=end
+
   mid = arr.length/2
   if arr.length == 1
-    return arr
+    arr
   else
+    # Split
     a = arr[0...mid]
     b = arr[mid..-1]
-    merge(split(a), split(b))
+    merge(merge_sort(a), merge_sort(b))
   end
 end
 
-p split(ar10)
+p merge_sort(ar10)
