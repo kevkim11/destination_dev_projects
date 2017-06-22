@@ -3,6 +3,7 @@
 # 2) Merge and sort the two sorted-arrays
 
 ar = [1, 5, 7, 10, 11, 15, 25, 40]
+ar3 = [26, 7, 1, 3, 5, 4]
 ar2 = [2, 4, 5, 8, 20]
 ar10 = [10, 4, 6, 3, 11, 16, 19, 1, 100, 21, 49, 59, 21, 2, 1, 5, 3]
 
@@ -48,4 +49,4 @@ two arrays.
   end
 end
 
-p merge_sort(ar10)
+p merge_sort(ar3)
