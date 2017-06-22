@@ -27,12 +27,12 @@ def bsearch2(array, target, starting_index=0)
   elsif array.length == 1 && middle_number != target
     nil
   elsif middle_number < target
-    starting_index+=mid
+    starting_index += mid
     bsearch2(array[mid..-1], target, starting_index)
   else
     bsearch2(array[0...mid], target, starting_index)
   end
 end
 
-p bsearch2(arr, 11)
+# p bsearch2(arr, 11)
 p bsearch2(arr2, 23)

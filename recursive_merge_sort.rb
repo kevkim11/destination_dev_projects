@@ -37,7 +37,6 @@ Continuously splits the array recursively.
 When the recursion is finished, it'll return an array with one element and will start merging the
 two arrays.
 =end
-
   mid = arr.length/2
   if arr.length == 1
     arr
