@@ -18,14 +18,20 @@ class PhoneNumber
 
   def initialize(raw_string)
     @raw_string = raw_string
+
   end
+
+
 
   def number
     #method for parsing the raw number string based on the rules in the instructions
-    if @raw_string =~ /d{10}/
-      p 'Its a 10 digit number'
-      phone_number = @raw_string
-      phone_number
+    # re = /\+(\d+)[\W]*(\d{1,3})[\W]*(\d{3})[\W]*(\d{3,4})/
+    re = /1?\W*\d{3}\W*\d{3}\W*\d{4,5}/
+    if @raw_string.match(re)
+
+      p 'matched'
+    else
+      p 'no match'
     end
 
   end
@@ -39,4 +45,7 @@ class PhoneNumber
   end
 end
 
-p PhoneNumber.new('1234567890').number
+# a = PhoneNumber.new('1234567890').number
+number = PhoneNumber.new('1234567890').number
+
+p number
