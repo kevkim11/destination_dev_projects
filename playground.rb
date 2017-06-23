@@ -19,4 +19,4 @@ my_regex = /cat/
 #   puts mtch
 # end
 
-p /hay/.match('haystack')
+p /y/.match('haystack')

@@ -18,22 +18,20 @@ class PhoneNumber
 
   def initialize(raw_string)
     @raw_string = raw_string
-
   end
-
-
 
   def number
     #method for parsing the raw number string based on the rules in the instructions
     # re = /\+(\d+)[\W]*(\d{1,3})[\W]*(\d{3})[\W]*(\d{3,4})/
-    re = /1?\W*\d{3}\W*\d{3}\W*\d{4,5}/
+    re = /^((1?)\W*(\d{3})\W*(\d{3})\W*(\d{4}))$/
     if @raw_string.match(re)
-
-      p 'matched'
+      if @raw_string =~ /^1\d{10}/
+        @raw_string[0]=''
+      end
+      @raw_string.split('').delete_if {|x| /\D/.match(x)}.join
     else
-      p 'no match'
+      '0000000000'
     end
-
   end
 
   def area_code
@@ -46,6 +44,6 @@ class PhoneNumber
 end
 
 # a = PhoneNumber.new('1234567890').number
-number = PhoneNumber.new('1234567890').number
+number = PhoneNumber.new('19876543210').number
 
 p number
