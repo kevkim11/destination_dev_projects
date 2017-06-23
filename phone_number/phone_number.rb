@@ -15,18 +15,14 @@ Hint: Only make one test pass at a time. Disable the others, then flip each on i
 =end
 
 class PhoneNumber
+  # Constant
   RE = /^(1?)\W*(\d{3})\W*(\d{3})\W*(\d{4})$/
   def initialize(raw_string)
     @raw_string = raw_string
   end
 
   def number
-    if @raw_string.match(RE)
-      @raw_string[0]='' if @raw_string =~ /^1\d{10}/
-      @raw_string.split('').delete_if {|x| /\D/.match(x)}.join
-    else
-      '0000000000'
-    end
+    @number ||= set_number
   end
 
   def area_code
@@ -36,20 +32,22 @@ class PhoneNumber
   end
 
   def to_s
+    number
     if @raw_string.match(RE)
       @raw_string[0]='' if @raw_string =~ /^1\d{10}/
     end
-    a = @raw_string.split('')[0..2]
-    b = @raw_string.split('')[3..5]
-    c = @raw_string.split('')[6...10]
-    (['('] + a + [')', ' '] + b + ['-']+ c).join
-    #method to pretty print (last two tests)
+    "(#{number[0..2]}) #{number[3..5]}-#{number[6...10]}"
+  end
+
+  private
+
+  def set_number
+    if @raw_string.match(RE)
+      # Check to see if the number is valid by comparing it to the RE
+      @raw_string[0]='' if @raw_string =~ /^1\d{10}/
+      @raw_string.split('').delete_if {|x| /\D/.match(x)}.join
+    else
+      '0000000000'
+    end
   end
 end
-
-# a = PhoneNumber.new('1234567890').number
-number = PhoneNumber.new('19876543210').number
-area_code = PhoneNumber.new('19876543210').area_code
-p PhoneNumber.new('5551234567').to_s
-
-p number
