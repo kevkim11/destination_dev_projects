@@ -15,19 +15,14 @@ Hint: Only make one test pass at a time. Disable the others, then flip each on i
 =end
 
 class PhoneNumber
-
+  RE = /^(1?)\W*(\d{3})\W*(\d{3})\W*(\d{4})$/
   def initialize(raw_string)
     @raw_string = raw_string
   end
 
   def number
-    #method for parsing the raw number string based on the rules in the instructions
-    # re = /\+(\d+)[\W]*(\d{1,3})[\W]*(\d{3})[\W]*(\d{3,4})/
-    re = /^((1?)\W*(\d{3})\W*(\d{3})\W*(\d{4}))$/
-    if @raw_string.match(re)
-      if @raw_string =~ /^1\d{10}/
-        @raw_string[0]=''
-      end
+    if @raw_string.match(RE)
+      @raw_string[0]='' if @raw_string =~ /^1\d{10}/
       @raw_string.split('').delete_if {|x| /\D/.match(x)}.join
     else
       '0000000000'
@@ -35,15 +30,26 @@ class PhoneNumber
   end
 
   def area_code
+    # b = @raw_string.match(RE).captures # Gives you an array with all the groups
+    @raw_string.match(RE)[2]
     #method to extract the area code from the number
   end
 
   def to_s
+    if @raw_string.match(RE)
+      @raw_string[0]='' if @raw_string =~ /^1\d{10}/
+    end
+    a = @raw_string.split('')[0..2]
+    b = @raw_string.split('')[3..5]
+    c = @raw_string.split('')[6...10]
+    (['('] + a + [')', ' '] + b + ['-']+ c).join
     #method to pretty print (last two tests)
   end
 end
 
 # a = PhoneNumber.new('1234567890').number
 number = PhoneNumber.new('19876543210').number
+area_code = PhoneNumber.new('19876543210').area_code
+p PhoneNumber.new('5551234567').to_s
 
 p number

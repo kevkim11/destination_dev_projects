@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eec1f18f-bcc2-4d9e-87ae-f77193098b76" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/destination_dev_projects.iml" afterPath="$PROJECT_DIR$/.idea/destination_dev_projects.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb" afterPath="$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_number/phone_number.rb" afterPath="$PROJECT_DIR$/phone_number/phone_number.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_number/phone_number_test.rb" afterPath="$PROJECT_DIR$/phone_number/phone_number_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playground.rb" afterPath="$PROJECT_DIR$/playground.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen_attack/queen_attack.rb" afterPath="$PROJECT_DIR$/queen_attack/queen_attack.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,13 +15,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/destination_dev_projects@anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1498163032005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
-    <SUITE FILE_PATH="coverage/destination_dev_projects@phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1498252230849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
+    <SUITE FILE_PATH="coverage/destination_dev_projects@phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1498254472427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1498164961859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@recursive_merge_sort.coverage" NAME="recursive_merge_sort Coverage Results" MODIFIED="1498156004138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1498099791665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@binary_search_tree.coverage" NAME="recursion_binary_search Coverage Results" MODIFIED="1498099797317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@playground.coverage" NAME="playground Coverage Results" MODIFIED="1498249116977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
-    <SUITE FILE_PATH="coverage/destination_dev_projects@Run_test__phone_number_test___destination_dev_projects.coverage" NAME="Run test 'phone_number_test': destination_dev_projects Coverage Results" MODIFIED="1498252240917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
+    <SUITE FILE_PATH="coverage/destination_dev_projects@Run_test__phone_number_test___destination_dev_projects.coverage" NAME="Run test 'phone_number_test': destination_dev_projects Coverage Results" MODIFIED="1498254585275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@search_json_file.coverage" NAME="search_json_file Coverage Results" MODIFIED="1498078620787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -34,8 +30,8 @@
       <file leaf-file-name="phone_number.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="810">
+              <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -44,8 +40,8 @@
       <file leaf-file-name="phone_number_test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phone_number/phone_number_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+            <state relative-caret-position="345">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,8 +114,8 @@
         <option value="$PROJECT_DIR$/queen_attack/queen_attack.rb" />
         <option value="$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb" />
         <option value="$PROJECT_DIR$/playground.rb" />
-        <option value="$PROJECT_DIR$/phone_number/phone_number.rb" />
         <option value="$PROJECT_DIR$/phone_number/phone_number_test.rb" />
+        <option value="$PROJECT_DIR$/phone_number/phone_number.rb" />
       </list>
     </option>
   </component>
@@ -508,7 +504,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498064209836</updated>
-      <workItem from="1498064211417" duration="32779000" />
+      <workItem from="1498064211417" duration="34711000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;refactored!!!&quot;">
       <created>1498079875879</created>
@@ -531,22 +527,17 @@
       <option name="project" value="LOCAL" />
       <updated>1498163823477</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished the phone_number class number method">
+      <created>1498252284979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498252284979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 25m 58s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 26m 21s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 27m 03s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 27m 19s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 27m 42s.xml">
       <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
@@ -565,9 +556,21 @@
     <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 10m 41s.xml">
       <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 48m 05s.xml">
+      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 48m 19s.xml">
+      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 49m 15s.xml">
+      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 49m 45s.xml">
+      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32779000" />
+    <option name="totallyTimeSpent" value="34711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
@@ -579,7 +582,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -638,31 +641,27 @@
     <MESSAGE value="&quot;refactored!!!&quot;" />
     <MESSAGE value="refactored more and added two_sum.rb" />
     <MESSAGE value="Added anagram. &#10;Fixed two_sum." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added anagram. &#10;Fixed two_sum." />
+    <MESSAGE value="Finished the phone_number class number method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the phone_number class number method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/phone_number/phone_number.rb</url>
-          <line>48</line>
+          <line>54</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/phone_number/phone_number.rb</url>
-          <line>30</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/phone_number/phone_number.rb</url>
-          <line>28</line>
-          <option name="timeStamp" value="61" />
+          <line>44</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="62" />
+      <option name="time" value="66" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -773,16 +772,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="810">
+          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phone_number/phone_number_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        <state relative-caret-position="345">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
