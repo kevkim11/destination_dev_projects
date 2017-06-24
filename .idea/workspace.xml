@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eec1f18f-bcc2-4d9e-87ae-f77193098b76" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/destination_dev_projects.iml" afterPath="$PROJECT_DIR$/.idea/destination_dev_projects.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_number/phone_number.rb" afterPath="$PROJECT_DIR$/phone_number/phone_number.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_number/phone_number_test.rb" afterPath="$PROJECT_DIR$/phone_number/phone_number_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen_attack/queen_attack.rb" afterPath="$PROJECT_DIR$/queen_attack/queen_attack.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen_attack/queen_attack_test.rb" afterPath="$PROJECT_DIR$/queen_attack/queen_attack_test.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,79 +16,69 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/destination_dev_projects@anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1498163032005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
+    <SUITE FILE_PATH="coverage/destination_dev_projects@Run_test__queen_attack_test___destination_dev_projects.coverage" NAME="Run test 'queen_attack_test': destination_dev_projects Coverage Results" MODIFIED="1498307736256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1498254472427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1498164961859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@recursive_merge_sort.coverage" NAME="recursive_merge_sort Coverage Results" MODIFIED="1498156004138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
+    <SUITE FILE_PATH="coverage/destination_dev_projects@queen_attack.coverage" NAME="queen_attack Coverage Results" MODIFIED="1498307724635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queen_attack" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1498099791665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@binary_search_tree.coverage" NAME="recursion_binary_search Coverage Results" MODIFIED="1498099797317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@playground.coverage" NAME="playground Coverage Results" MODIFIED="1498249116977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
-    <SUITE FILE_PATH="coverage/destination_dev_projects@Run_test__phone_number_test___destination_dev_projects.coverage" NAME="Run test 'phone_number_test': destination_dev_projects Coverage Results" MODIFIED="1498254585275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
+    <SUITE FILE_PATH="coverage/destination_dev_projects@Run_test__phone_number_test___destination_dev_projects.coverage" NAME="Run test 'phone_number_test': destination_dev_projects Coverage Results" MODIFIED="1498255650795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
     <SUITE FILE_PATH="coverage/destination_dev_projects@search_json_file.coverage" NAME="search_json_file Coverage Results" MODIFIED="1498078620787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="destination_dev_projects" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="phone_number.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phone_number_test.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phone_number/phone_number_test.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="playground.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playground.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circular_buffer_test.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="107" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queen_attack.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queen_attack_test.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack_test.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="queen_attack.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="36" column="96" lean-forward="false" selection-start-line="36" selection-start-column="96" selection-end-line="36" selection-end-column="96" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phone_number.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="316">
+                  <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phone_number_test.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phone_number/phone_number_test.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1020">
+                  <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="queen_attack_test.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack_test.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="50">
+                  <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -111,11 +102,12 @@
         <option value="$PROJECT_DIR$/phone_number.rb" />
         <option value="$PROJECT_DIR$/phone_number_test.rb" />
         <option value="$PROJECT_DIR$/queen_attack_test.rb" />
-        <option value="$PROJECT_DIR$/queen_attack/queen_attack.rb" />
         <option value="$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb" />
         <option value="$PROJECT_DIR$/playground.rb" />
         <option value="$PROJECT_DIR$/phone_number/phone_number_test.rb" />
         <option value="$PROJECT_DIR$/phone_number/phone_number.rb" />
+        <option value="$PROJECT_DIR$/queen_attack/queen_attack_test.rb" />
+        <option value="$PROJECT_DIR$/queen_attack/queen_attack.rb" />
       </list>
     </option>
   </component>
@@ -233,45 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'phone_number_test': destination_dev_projects">
-    <configuration default="false" name="two_sum" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="destination_dev_projects" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/two_sum.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="anagrams" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="destination_dev_projects" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/anagrams.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.Run test 'queen_attack_test': destination_dev_projects">
     <configuration default="false" name="playground" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="destination_dev_projects" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -337,6 +291,54 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run test 'queen_attack_test': destination_dev_projects" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="destination_dev_projects" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/queen_attack/queen_attack_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="queen_attack" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="destination_dev_projects" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/queen_attack" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/queen_attack/queen_attack.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -477,19 +479,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.two_sum" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.anagrams" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.playground" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.phone_number" />
-      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'phone_number_test': destination_dev_projects" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.playground" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.phone_number" />
+      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'phone_number_test': destination_dev_projects" />
+      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'queen_attack_test': destination_dev_projects" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.queen_attack" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'phone_number_test': destination_dev_projects" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.phone_number" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.playground" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.two_sum" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.anagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'queen_attack_test': destination_dev_projects" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.queen_attack" />
+        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'phone_number_test': destination_dev_projects" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.phone_number" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.playground" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +506,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498064209836</updated>
-      <workItem from="1498064211417" duration="34711000" />
+      <workItem from="1498064211417" duration="38716000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;refactored!!!&quot;">
       <created>1498079875879</created>
@@ -534,55 +536,69 @@
       <option name="project" value="LOCAL" />
       <updated>1498252284979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished the phone_number assignment">
+      <created>1498254615013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498254615013</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactored the phone_number assignment with Doug's Help">
+      <created>1498255672729</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1498255672729</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 27m 42s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 22m 32s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 15h 59m 51s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 22m 47s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 00m 45s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 22m 52s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 08m 19s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 23m 23s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 09m 14s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 26m 11s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 10m 41s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 26m 19s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 48m 05s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 31m 16s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 48m 19s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 32m 40s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 49m 15s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 34m 09s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'phone_number_test'__destination_dev_projects - 2017.06.23 at 16h 49m 45s.xml">
-      <configuration name="Run test 'phone_number_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'queen_attack_test'__destination_dev_projects - 2017.06.24 at 07h 35m 36s.xml">
+      <configuration name="Run test 'queen_attack_test': destination_dev_projects" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34711000" />
+    <option name="totallyTimeSpent" value="38716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.503125" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968536" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -642,26 +658,16 @@
     <MESSAGE value="refactored more and added two_sum.rb" />
     <MESSAGE value="Added anagram. &#10;Fixed two_sum." />
     <MESSAGE value="Finished the phone_number class number method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the phone_number class number method" />
+    <MESSAGE value="Finished the phone_number assignment" />
+    <MESSAGE value="Refactored the phone_number assignment with Doug's Help" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored the phone_number assignment with Doug's Help" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/phone_number/phone_number.rb</url>
-          <line>54</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/phone_number/phone_number.rb</url>
-          <line>44</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="66" />
+      <option name="time" value="76" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -730,30 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.2/lib/minitest/assertions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="171" column="8" lean-forward="false" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/playground.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -764,24 +746,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/circular_buffer/circular_buffer_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="107" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        <state relative-caret-position="1620">
+          <caret line="108" column="3" lean-forward="true" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phone_number/phone_number_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="1020">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.2/lib/minitest/assertions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="133" column="8" lean-forward="false" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone_number/phone_number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queen_attack/queen_attack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="96" lean-forward="false" selection-start-line="36" selection-start-column="96" selection-end-line="36" selection-end-column="96" />
           <folding />
         </state>
       </provider>

@@ -14,7 +14,34 @@ You'd also be able to answer whether the queens can attack each other. In this c
 =end
 
 class Queens
-  def initialize
-
+  def initialize(pos)
+    @hash = pos
+    valid_queen
   end
+
+  def valid_queen
+    unless @hash[:white][0] >= 0 && @hash[:white][1] >= 0 && @hash[:white][0] < 8 && @hash[:white][1] < 8
+      raise ArgumentError
+    end
+    if @hash[:black] != nil
+      unless @hash[:black][0] >= 0 && @hash[:black][1] >= 0 && @hash[:black][0] < 8 && @hash[:black][1] < 8
+        raise ArgumentError
+      end
+    end
+  end
+
+  def attack?
+    # Write the logic if the two queen positions can attack.
+    if @hash[:white][0] == @hash[:black][0] || @hash[:white][1] == @hash[:black][1]
+      true
+    elsif (@hash[:white][0] - @hash[:black][0]).abs == (@hash[:white][1] - @hash[:black][1]).abs
+      true
+    else
+      false
+    end
+  end
+
+
 end
+
+p Queens.new(white: [2, 4], black: [6, 6]).attack?
